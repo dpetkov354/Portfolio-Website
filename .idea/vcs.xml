@@ -2,7 +2,5 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/static/img/Projects/Portfolio-Website" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/static/img/Projects/Space-Mission-Launch-Data" vcs="Git" />
   </component>
 </project>
